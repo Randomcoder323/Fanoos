@@ -1,1 +1,7 @@
 # Fanoos
+
+| Name | Price | Link | Use |
+|------|--------|------|------|
+| Magnet | $0.99 | [Link](https://example.com) |To Stick the top lid and base together for easy candle removal|
+| Electric Battery candle| Free | [Link](none) | I already Hace this at home |
+| 3d printed parts | depends on shipping | [Link](none) |I will print the whole thing using printing legion|
