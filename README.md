@@ -6,4 +6,13 @@
 | Electric Battery candle| Free | [none]| I already Hace this at home |
 | 3d printed parts | depends on shipping | [none] |I will print the whole thing using printing legion|
 
-Pictures
+# Pictures
+<img width="526" height="663" alt="Screenshot 2025-11-22 203413" src="https://github.com/user-attachments/assets/124cf731-50d0-4fba-8556-e1e77b8c4fed" />
+<img width="745" height="710" alt="Screenshot 2025-11-22 195722" src="https://github.com/user-attachments/assets/67771693-8078-4cd6-aa61-fc6378566012" />
+<img width="543" height="574" alt="Screenshot 2025-11-22 204901" src="https://github.com/user-attachments/assets/161801fa-801f-469c-a9e6-40e50e68fd34" />
+<img width="697" height="510" alt="Screenshot 2025-11-22 204848" src="https://github.com/user-attachments/assets/6dc53bdd-ebeb-407b-870d-09a6161c205e" />
+<img width="706" height="515" alt="Screenshot 2025-11-22 204915" src="https://github.com/user-attachments/assets/9545a261-5d4a-405c-b75e-b0a027e9d4d1" />
+
+# Reasoning
+
+This project is a traditional fanoos, or an egpytian lantern. This project took me about 2 gours to complete, probably more. Is way relaly fun creating this project and showing a part of my culture!
