@@ -6,7 +6,7 @@
 | Electric Battery candle| Free | [none]| I already Hace this at home |
 | 3d printed parts | about $8.00 for shipping according to the closest person from printer legiom. I will print the whole thing using printing legion | ![Screenshot 1](https://raw.githubusercontent.com/Randomcoder323/Fanoos/main/Screenshot_2025-11-22-21-31-26-73_abb9c8060a0a12c5ac89e934e52a2f4f.jpg)
 
-![Screenshot 2](https://raw.githubusercontent.com/Randomcoder323/Fanoos/main/Screenshot_2025-11-22-22-02-55-55_abb9c8060a0a12c5ac89e934e52a2f4f.jpg)
+![Screenshot 2](https://raw.githubusercontent.com/Randomcoder323/Fanoos/main/Screenshot_2025-11-22-22-07-08-34_abb9c8060a0a12c5ac89e934e52a2f4f.jpg)
 
 # Pictures
 <img width="526" height="663" alt="Screenshot 2025-11-22 203413" src="https://github.com/user-attachments/assets/124cf731-50d0-4fba-8556-e1e77b8c4fed" />
@@ -19,5 +19,5 @@
 
 This project is a traditional fanoos, or an egpytian lantern. This project took me about 2 gours to complete, probably more. Is way relaly fun creating this project and showing a part of my culture!
 
-# total: 6+1.06= $7.06
+# total: 8+1.06= $9.06
 <img width="1629" height="680" alt="image" src="https://github.com/user-attachments/assets/2c9f5688-32f2-4498-b157-cc7b8014c688" />
